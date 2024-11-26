@@ -1,4 +1,4 @@
-## Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos
+## Wakening Past Concepts without Past Data: <br>Class-Incremental Learning from Online Placebos
 
 ### Initialize the environment
 
