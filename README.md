@@ -1,3 +1,17 @@
-### Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos
 
-Preliminary code on Google Drive: [link](https://drive.google.com/file/d/1ogChtUMZtnR4bC4JFbAcFsKxB_hkZbsB/view?usp=sharing)
+
+## Initialize the environment
+
+```bash
+conda create --name pycil-1 python=3.8
+conda activate pycil-1
+conda install cudatoolkit=11.1 -c nvidia
+conda install pytorch torchvision torchaudio -c pytorch-lts
+```
+
+```bash
+pip install tqdm 
+pip install scipy 
+pip install quadprog
+pip install POT
+```
