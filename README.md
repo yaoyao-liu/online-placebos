@@ -1,6 +1,6 @@
+## Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos
 
-
-## Initialize the environment
+### Initialize the environment
 
 ```bash
 conda create --name pycil-1 python=3.8
@@ -14,4 +14,8 @@ pip install tqdm
 pip install scipy 
 pip install quadprog
 pip install POT
+```
+### Run the code
+```bash
+bash run_exp_all.py
 ```
