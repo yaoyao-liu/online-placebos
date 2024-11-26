@@ -5,8 +5,8 @@ This repository contains the PyTorch implementation for the [WACV 2024](https://
 ### Initialize the environment
 
 ```bash
-conda create --name pycil-1 python=3.8
-conda activate pycil-1
+conda create --name onlineplacebos python=3.8
+conda activate onlineplacebos
 conda install cudatoolkit=11.1 -c nvidia
 conda install pytorch torchvision torchaudio -c pytorch-lts
 ```
