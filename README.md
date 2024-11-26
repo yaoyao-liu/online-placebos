@@ -46,3 +46,8 @@ Please cite our paper if it is helpful to your work:
   url          = {https://doi.org/10.1109/WACV57701.2024.00222}
 }
 ```
+
+### Acknowledgements
+
+Our implementation uses the source code from the following repositories:
+- <https://github.com/G-U-N/PyCIL>
