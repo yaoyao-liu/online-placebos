@@ -1,5 +1,9 @@
 ## Wakening Past Concepts without Past Data: <br>Class-Incremental Learning from Online Placebos
 
+[![LICENSE](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/yaoyao-liu/online-placebos/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8-blue.svg?style=flat-square&logo=python&color=3776AB&logoColor=3776AB)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/pytorch-1.8-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
+
 This repository contains the PyTorch implementation for the [WACV 2024](https://wacv2024.thecvf.com/) Paper ["Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos"](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Wakening_Past_Concepts_Without_Past_Data_Class-Incremental_Learning_From_Online_WACV_2024_paper.pdf).
 
 ### Initialize the environment
